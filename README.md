@@ -7,7 +7,7 @@
 **A VPN that does not ask who you are.**
 
 No email, no password, no name: your account is a random key, and we keep only its hash.<br>
-The tunnel looks like ordinary HTTPS, so networks that hunt for VPNs have little to go on.
+Your traffic is encrypted all the way from your device to our servers, so public Wi-Fi, hotels and airports see only an encrypted connection.
 
 [![Latest release](https://img.shields.io/github/v/release/houqai/noekken-app?label=latest&style=flat-square&color=2f9e6e)](https://github.com/houqai/noekken-app/releases/latest)
 ![Windows · macOS · Linux · Android](https://img.shields.io/badge/Windows%20·%20macOS%20·%20Linux%20·%20Android-4b5563?style=flat-square)
@@ -28,7 +28,7 @@ The tunnel looks like ordinary HTTPS, so networks that hunt for VPNs have little
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/connected-dark.png">
-  <img src="assets/connected-light.png" width="250" alt="Connected to Switzerland">
+  <img src="assets/connected-light.png" width="250" alt="Connected to Finland">
 </picture>
 &nbsp;
 <picture>
@@ -52,10 +52,10 @@ The tunnel looks like ordinary HTTPS, so networks that hunt for VPNs have little
 
 ## Why Noekken
 
-- **Nothing that points to you.** An account is a random key. We have no email, name or password on file, so there is nothing about you to hand over and nothing to leak.
-- **Hard to single out.** The tunnel looks like a regular TLS connection to a real website. Networks that block VPNs by the shape of their traffic have little to go on.
-- **One file, every route.** Your connection file carries every location of your plan and several ways into each. If one address gets blocked, the app moves on to the next.
-- **Anti-censor locations.** Locations marked *Anti-censor* reach the server through a CDN, for networks where direct connections are cut.
+- **Nothing that points to you.** An account is a random key. We have no email, name or password on file, so there is nothing about you to leak or sell.
+- **Private on any network.** Your traffic leaves the device inside a TLS-encrypted tunnel. Whoever runs the network you are on sees an encrypted connection, not the sites you open or what you send.
+- **One file, every route.** Your connection file carries every location of your plan and several routes to each. If one server is unreachable, the app moves on to the next.
+- **CDN locations.** Locations marked *CDN* reach the server through a content delivery network, for when a direct route to it is slow or unreachable.
 - **No leaks while reconnecting.** If the tunnel drops, the app keeps traffic from going around it until it is back.
 
 ## Download
