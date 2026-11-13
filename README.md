@@ -14,15 +14,15 @@ Your traffic is encrypted all the way from your device to our servers, so public
 
 <br>
 
-<a href="https://github.com/houqai/noekken-app/releases/download/v1.5.0/noekken-setup-1.5.0.exe"><img alt="Download for Windows" src="https://img.shields.io/badge/Windows-Download-0078D4?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIgNC42IDEwIDMuNXY4SDJ6bTkuMi0xLjNMMjIgMS44djkuN0gxMS4yek0yIDEyLjVoOHY4TDIgMTkuNHptOS4yIDBIMjJ2OS43bC0xMC44LTEuNXoiLz48L3N2Zz4=" height="38"></a>
+<a href="https://github.com/houqai/noekken-app/releases/download/v1.5.1/noekken-setup-1.5.1.exe"><img alt="Download for Windows" src="https://img.shields.io/badge/Windows-Download-0078D4?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIgNC42IDEwIDMuNXY4SDJ6bTkuMi0xLjNMMjIgMS44djkuN0gxMS4yek0yIDEyLjVoOHY4TDIgMTkuNHptOS4yIDBIMjJ2OS43bC0xMC44LTEuNXoiLz48L3N2Zz4=" height="38"></a>
 &nbsp;
-<a href="https://github.com/houqai/noekken-app/releases/download/v1.5.0/Noekken-1.5.0-macos.dmg"><img alt="Download for macOS" src="https://img.shields.io/badge/macOS-Download-111111?style=for-the-badge&logo=apple&logoColor=white" height="38"></a>
+<a href="https://github.com/houqai/noekken-app/releases/download/v1.5.1/Noekken-1.5.1-macos.dmg"><img alt="Download for macOS" src="https://img.shields.io/badge/macOS-Download-111111?style=for-the-badge&logo=apple&logoColor=white" height="38"></a>
 &nbsp;
 <a href="#linux"><img alt="Download for Linux" src="https://img.shields.io/badge/Linux-Download-E95420?style=for-the-badge&logo=linux&logoColor=white" height="38"></a>
 &nbsp;
-<a href="https://github.com/houqai/noekken-app/releases/download/v1.5.0/Noekken-1.5.0-android.apk"><img alt="Download for Android" src="https://img.shields.io/badge/Android-Download-34A853?style=for-the-badge&logo=android&logoColor=white" height="38"></a>
+<a href="https://github.com/houqai/noekken-app/releases/download/v1.5.1/Noekken-1.5.1-android.apk"><img alt="Download for Android" src="https://img.shields.io/badge/Android-Download-34A853?style=for-the-badge&logo=android&logoColor=white" height="38"></a>
 
-<sub>Version 1.5.0 · <a href="https://github.com/houqai/noekken-app/releases">all versions</a> · <a href="https://noekken.com/download">noekken.com/download</a></sub>
+<sub>Version 1.5.1 · <a href="https://github.com/houqai/noekken-app/releases">all versions</a> · <a href="https://noekken.com/download">noekken.com/download</a></sub>
 
 <br><br>
 
@@ -62,10 +62,10 @@ Your traffic is encrypted all the way from your device to our servers, so public
 
 | System | Files | Runs on |
 |---|---|---|
-| **Windows** | [Installer](https://github.com/houqai/noekken-app/releases/download/v1.5.0/noekken-setup-1.5.0.exe) · [Archive without an installer](https://github.com/houqai/noekken-app/releases/download/v1.5.0/Noekken-1.5.0-windows-x64.zip) | Windows 10 and 11, 64-bit |
-| **macOS** | [Disk image](https://github.com/houqai/noekken-app/releases/download/v1.5.0/Noekken-1.5.0-macos.dmg) | macOS 11 or newer, Apple Silicon and Intel |
-| **Linux** | [.deb x86_64](https://github.com/houqai/noekken-app/releases/download/v1.5.0/noekken_1.5.0_amd64.deb) · [.deb arm64](https://github.com/houqai/noekken-app/releases/download/v1.5.0/noekken_1.5.0_arm64.deb) · [.rpm x86_64](https://github.com/houqai/noekken-app/releases/download/v1.5.0/noekken-1.5.0-1.x86_64.rpm) · [.rpm arm64](https://github.com/houqai/noekken-app/releases/download/v1.5.0/noekken-1.5.0-1.aarch64.rpm) | Ubuntu 22.04+, Debian 12+, Fedora, RHEL 9 |
-| **Android** | [APK](https://github.com/houqai/noekken-app/releases/download/v1.5.0/Noekken-1.5.0-android.apk) | Android 8 or newer, 64-bit |
+| **Windows** | [Installer](https://github.com/houqai/noekken-app/releases/download/v1.5.1/noekken-setup-1.5.1.exe) · [Archive without an installer](https://github.com/houqai/noekken-app/releases/download/v1.5.1/Noekken-1.5.1-windows-x64.zip) | Windows 10 and 11, 64-bit |
+| **macOS** | [Disk image](https://github.com/houqai/noekken-app/releases/download/v1.5.1/Noekken-1.5.1-macos.dmg) | macOS 11 or newer, Apple Silicon and Intel |
+| **Linux** | [.deb x86_64](https://github.com/houqai/noekken-app/releases/download/v1.5.1/noekken_1.5.1_amd64.deb) · [.deb arm64](https://github.com/houqai/noekken-app/releases/download/v1.5.1/noekken_1.5.1_arm64.deb) · [.rpm x86_64](https://github.com/houqai/noekken-app/releases/download/v1.5.1/noekken-1.5.1-1.x86_64.rpm) · [.rpm arm64](https://github.com/houqai/noekken-app/releases/download/v1.5.1/noekken-1.5.1-1.aarch64.rpm) | Ubuntu 22.04+, Debian 12+, Fedora, RHEL 9 |
+| **Android** | [APK](https://github.com/houqai/noekken-app/releases/download/v1.5.1/Noekken-1.5.1-android.apk) | Android 8 or newer, 64-bit |
 
 ### Windows
 
@@ -80,8 +80,8 @@ Open the disk image and drag Noekken to Applications. The app is not notarized b
 In a terminal, in the folder with the downloaded package:
 
 ```bash
-sudo apt install ./noekken_1.5.0_amd64.deb       # Ubuntu, Debian
-sudo dnf install ./noekken-1.5.0-1.x86_64.rpm    # Fedora, RHEL
+sudo apt install ./noekken_1.5.1_amd64.deb       # Ubuntu, Debian
+sudo dnf install ./noekken-1.5.1-1.x86_64.rpm    # Fedora, RHEL
 ```
 
 On arm64, take the arm64 file. Noekken then shows up among your apps. On GNOME the tray icon needs the AppIndicator extension: Ubuntu has it, Fedora and Debian do not out of the box.
@@ -92,14 +92,14 @@ Open the downloaded APK. The phone asks to allow installing apps from your brows
 
 ## Check the file
 
-The SHA-256 of every file is shown next to it on the [release page](https://github.com/houqai/noekken-app/releases/tag/v1.5.0) and on [noekken.com/download](https://noekken.com/download). Compare it with yours:
+The SHA-256 of every file is shown next to it on the [release page](https://github.com/houqai/noekken-app/releases/tag/v1.5.1) and on [noekken.com/download](https://noekken.com/download). Compare it with yours:
 
 ```powershell
-(Get-FileHash .\noekken-setup-1.5.0.exe -Algorithm SHA256).Hash.ToLower()
+(Get-FileHash .\noekken-setup-1.5.1.exe -Algorithm SHA256).Hash.ToLower()
 ```
 
 ```bash
-shasum -a 256 Noekken-1.5.0-macos.dmg
+shasum -a 256 Noekken-1.5.1-macos.dmg
 ```
 
 ---
